@@ -16,5 +16,3 @@
 # 三、扫描工具类 #
 
 - ClassUtils：扫描包的工具类，依赖Google的核心包，以及Apache的common包
-
-test merage
