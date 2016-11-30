@@ -13,6 +13,15 @@
 - ArrayForQueue：循环队列，用数组实现
 - LinkedForQueue：链表队列（单链表）
 
-# 三、扫描工具类 #
+# 三、线性表（顺序线性表，链式线性表） #
+
+- LList：线性表接口
+- SequenceList：顺序实现线性表
+- ArrayForLinearList：用数组实现线性顺序表
+- LinkedList：链式实现线性表
+
+# 扫描工具类 #
 
 - ClassUtils：扫描包的工具类，依赖Google的核心包，以及Apache的common包
+
+
