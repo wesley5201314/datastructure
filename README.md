@@ -19,6 +19,14 @@
 - SequenceList：顺序实现线性表
 - ArrayForLinearList：用数组实现线性顺序表
 - LinkedList：链式实现线性表
+# 四、排序 #
+
+- MergeSort：归并排序
+- QuickSort：快速排序
+- SelectSort：选择排序
+- ShellSort：希尔排序
+- SortSearch：顺序查找
+- StraightInsertionSort：直接插入排序
 
 # 扫描工具类 #
 
