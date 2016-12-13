@@ -1,6 +1,6 @@
 # datastructure
 
-# 一、栈（后进后出） #
+# 一、栈（后进先出） #
 
 - Stack：基础接口类
 - ListForStack：容器实现栈
