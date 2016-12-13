@@ -17,7 +17,7 @@ public class ArrayForQueue<T> implements Queue<T>{
 
     //队列中元素的个数
     public int size;
-    //对首下标
+    //队首下标
     public int front;
     //队尾下标
     public int rear;
